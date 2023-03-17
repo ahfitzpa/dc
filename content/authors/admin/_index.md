@@ -1,29 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Human Performance and optimisation.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Exercise Physiology
+    institution: University College Dublin
+    year: 2014
+  - course: MSc Sports Science and Coaching
+    institution: University Institute of Motor Sciences
+    year: 2007
+  - course: BSc in Sport and Motor Sciences
+    institution: University Institute of Motor Sciences
+    year: 2005
 email: ""
-first_name: Alice
+first_name: Domenico
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Exercise physiology
+- Elite athletes
+- Women in sports
+last_name: Crognale
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University College Dublin
+  url: https://www.ucd.ie/sportandhealth/sportscienceservices/humanperformancelaboratory/
+role: Sports Science Services Manager
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,7 +32,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/CrognaleDom
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -42,15 +41,15 @@ social:
   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/domenico-crognale-298935164/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Domenico Crognale
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Domenico Crognale runs the Human Performance laboratory at University College Dublin. His research interests include exercise physiology, elite athletes and women in sport.
 {style="text-align: justify;"}
