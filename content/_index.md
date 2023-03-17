@@ -45,7 +45,7 @@ sections:
     items:
     - description: 70%
       icon: fa-solid fa-wave-pulse
-      icon_pack: font-awesome-icon
+      icon_pack: fas
       name: Exercise physiology
     - description: 100%
       icon: chart-line
