@@ -43,10 +43,10 @@ sections:
 - block: features
   content:
     items:
-    - description: 90%
-      icon: r-project
+    - description: 70%
+      icon: wave-pulse
       icon_pack: fab
-      name: R
+      name: Exercise physiology
     - description: 100%
       icon: chart-line
       icon_pack: fas
