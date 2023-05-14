@@ -46,41 +46,44 @@ sections:
     - description: 70%
       icon: fa-solid fa-wave-pulse
       icon_pack: fas
-      name: Exercise physiology
+      name: Molecular virology
     - description: 100%
       icon: chart-line
       icon_pack: fas
-      name: Statistics
+      name: High Throughput Sequencing
     - description: 10%
       icon: camera-retro
       icon_pack: fas
-      name: Photography
+      name: Bioinformatics
     title: Skills
 - block: experience
   content:
     date_format: Jan 2006
     items:
-    - company: GenCoin
+    - company: Teagasc Food Research Centre
       company_logo: org-gc
       company_url: ""
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2019-03-01"
       description: |2-
           Responsibilities include:
 
-          * Analysing
-          * Modelling
-          * Deploying
-      location: California
-      title: CEO
-    - company: University X
+          * Development and optimisation of a targeted norovirus amplicon HTS method for genotypic characterisation of noroviruses in shellfish
+          * Development and optimisation of a shotgun metagenomics method (Illumina) for assessment of viral diversity in clinical, shellfish and sewage samples
+          * Application of amplicon and shotgun metagneomic methods to historic collections at the Marine Institute, investigating temporal and spatial trends in norovirus genotypes and viral diversity
+      location: Cork
+      title: PhD Cullen fellow
+    - company: Marine Institute
       company_logo: org-x
       company_url: ""
-      date_end: "2020-12-31"
-      date_start: "2016-01-01"
-      description: Taught electronic engineering and researched semiconductor physics.
-      location: California
-      title: Professor of Semiconductor Physics
+      date_end: "2019-02-28"
+      date_start: "2017-04-01"
+      description: * Implementation and validation of rtqPCR assays for sapovirus, Hepatitis A and Hepatitis E in shellfish
+      * Routine testing and reporting of commercial samples (ISO 15126:2017), rtqPCR for norovirus in shellfish
+      * Generation of R markdown reports for monitoring dsDNA standards, internal process controls (IPC) and external control RNA (ecRNA)
+      * Preparation of dsDNA, ECRNA and IPC controls used for rtqPCR assays
+      location: Galway, Ireland
+      title: Laboratory Analyst 
     title: Experience
   design:
     columns: "2"
