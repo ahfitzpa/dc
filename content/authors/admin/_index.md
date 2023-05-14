@@ -21,7 +21,7 @@ interests:
 last_name: Fitzpatrick
 organizations:
 - name: University College Dublin
-  url: https://www.ucd.ie/sportandhealth/sportscienceservices/humanperformancelaboratory/
+  url: https://www.ucd.ie/vetmed/research/
 role: Irish Research Council Postdoctoral Fellow
 social:
 - icon: envelope
@@ -32,13 +32,13 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/CrognaleDom
+  link: https://twitter.com/AmyHFitzpatrick
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=KI_M5tEAAAAJ&hl=en&oi=ao
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/domenico-crognale-298935164/
+  link: https://www.linkedin.com/in/ahfitzpatrick/
 - icon: cv
   icon_pack: ai
   link: uploads/resume.pdf
